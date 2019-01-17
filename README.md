@@ -5,6 +5,10 @@ Windows 10: https://docs.docker.com/docker-for-windows/
 OSX: https://docs.docker.com/docker-for-mac/
 
 
+# Change Log:
+- updated .env file to use the 18.3 Community Edition tarball from 18.2
+
+
 # Edit .env
 change the `LABKEY_` prefixed runtime environment variables
 
