@@ -6,7 +6,7 @@ OSX: https://docs.docker.com/docker-for-mac/
 
 
 # Change Log:
-- updated .env file to use the 18.3 Community Edition tarball from 18.2
+- 2019-01-17 -- updated .env file to use the 18.3 Community Edition tarball from 18.2
 
 
 # Edit .env
